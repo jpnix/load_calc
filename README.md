@@ -1,4 +1,4 @@
-#Server Load Calc
+# Server Load Calc
 
 Small program that allows a user to identify thresholds for monitoring load across any server. 
 
