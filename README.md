@@ -1,4 +1,4 @@
-# Lets encrypt auto renew on EC2
+#Server Load Calc
 
 Small program that allows a user to identify thresholds for monitoring load across any server. 
 
